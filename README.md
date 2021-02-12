@@ -4,7 +4,9 @@ Shortcuts for ffuf.
 
 This script defines a few useful wordlists for common fuzzing purposes and translates that purpose/task to the wordlist param for ffuz.
 
-```$./ffuf-tricks.sh directory -u http://targeturl.com/FUZZ -t 50  
+```
+
+$./ffuf-tricks.sh directory -u http://targeturl.com/FUZZ -t 50  
 
 +=============================+
 
